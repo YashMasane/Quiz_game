@@ -1,5 +1,7 @@
 # Console-Based Quiz App in Python
 
+**Try the Quiz App on Replit: [Console-Based Quiz App](https://replit.com/@YashMasane/Project-quiz-game)**
+
 Welcome to the Console-Based Quiz App in Python! This project is a simple interactive quiz application that tests your general knowledge by asking a series of questions. You'll be presented with a question and need to answer with either "yes" or "no". At the end of the quiz, you'll receive a score based on the number of correct answers.
 
 ## Table of Contents
@@ -7,7 +9,6 @@ Welcome to the Console-Based Quiz App in Python! This project is a simple intera
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributions](#contributions)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Project Structure
@@ -47,10 +48,6 @@ The project is organized into different modules, each containing specific classe
 ## Contributions
 
 Contributions to this project are welcome! If you'd like to improve the quiz app, add more questions, enhance the user interface, or fix any issues, feel free to open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
