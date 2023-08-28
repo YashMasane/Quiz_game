@@ -1,8 +1,8 @@
-# Console-Based Quiz App in Python
+# Quizzler App in Python
 
-**Try the Quiz App on Replit: [Console-Based Quiz App](https://replit.com/@YashMasane/Project-quiz-game)**
+**Try the Quiz App on Replit: [Quizzler app]([https://replit.com/@YashMasane/Project-quiz-game](https://replit.com/@YashMasane/Quizzler-App))**
 
-Welcome to the Console-Based Quiz App in Python! This project is a simple interactive quiz application that tests your general knowledge by asking a series of questions. You'll be presented with a question and need to answer with either "yes" or "no". At the end of the quiz, you'll receive a score based on the number of correct answers.
+Welcome to the Quizzler App in Python! This project is a simple interactive quiz application that tests your general knowledge by asking a series of questions. You'll be presented with a question and need to answer with either "yes" or "no". At the end of the quiz, you'll receive a score based on the number of correct answers.
 
 ## Table of Contents
 
@@ -20,6 +20,9 @@ The project is organized into different modules, each containing specific classe
 - **question_model**: This module defines the `Question` class. Each question object has attributes for the question itself and its correct answer.
 
 - **quiz_brain**: This module contains the `QuizBrain` class, which handles the main logic of the quiz. It has methods to move to the next question, display the current question, and check the user's answer.
+- 
+- **ui**: This module is responsible for GUI of app.
+## Usage
 
 ## Usage
 
