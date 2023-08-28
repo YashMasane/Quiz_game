@@ -1,6 +1,6 @@
 # Quizzler App in Python
 
-**Try the Quiz App on Replit: [Quizzler app]([https://replit.com/@YashMasane/Project-quiz-game](https://replit.com/@YashMasane/Quizzler-App))**
+**Try the Quiz App on Replit: [Quizzler app](https://replit.com/@YashMasane/Quizzler-App)**
 
 Welcome to the Quizzler App in Python! This project is a simple interactive quiz application that tests your general knowledge by asking a series of questions. You'll be presented with a question and need to answer with either "yes" or "no". At the end of the quiz, you'll receive a score based on the number of correct answers.
 
