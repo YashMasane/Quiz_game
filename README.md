@@ -19,8 +19,7 @@ The project is organized into different modules, each containing specific classe
 
 - **question_model**: This module defines the `Question` class. Each question object has attributes for the question itself and its correct answer.
 
-- **quiz_brain**: This module contains the `QuizBrain` class, which handles the main logic of the quiz. It has methods to move to the next question, display the current question, and check the user's answer.
-  
+- **quiz_brain**: This module contains the `QuizBrain` class, which handles the main logic of the quiz. It has methods to move to the next question, display the current question, and check the user's answer. 
 - **ui**: This module is responsible for GUI of app.
 ## Usage
 
