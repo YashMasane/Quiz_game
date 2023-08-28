@@ -42,7 +42,7 @@ The project is organized into different modules, each containing specific classe
     python main.py
     ```
 
-4. Follow the prompts to answer the quiz questions. Type "yes" or "no" to answer each question.
+4. Click on the correct tick to answer each question.
 
 5. Once you've answered all the questions, your final score will be displayed.
 
